@@ -25,8 +25,8 @@ latest_posts:
 ---
 
 I am a rising fifth year PhD student in physics working in [Susanne Yelin's](https://www.physics.harvard.edu/people/facpages/yelin) group at Harvard University.
-My work focuses on the intersection of condensed matter physics, quantum information, and atomic physics and how we can use emergine quantum simulators to better understand quantum many-body physics.
-I am particularly interested in quantum dynamics and how different states can be prepared and understood using both analog and digital dynamics.
+My work focuses on the intersection of condensed matter physics, quantum information, and atomic physics and how we can use emerging quantum simulators to better understand quantum many-body physics.
+I am particularly interested in quantum dynamics and how different states can be prepared, evolved, and characterized using both analog and digital dynamics.
 
 
 <!--

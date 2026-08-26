@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-7-23
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our [paper](https://journals.aps.org/prl/accepted/10.1103/7bc2-6cgy) on accelerating the preparation of quantum spin lakes in quantum simulators was accepted to PRL!
